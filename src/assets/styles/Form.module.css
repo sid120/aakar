@@ -1,0 +1,19 @@
+/* .designForm {
+    margin-left: 5rem;
+  }
+  
+  @media screen and (min-width: 64em) {
+    .designForm {
+      margin-left: 0rem;
+    }
+  }
+   */
+
+   .process {
+    margin-top: 8rem;
+   }
+   .disabled-textfield {
+    color: darkgray !important;
+    border-color: darkgray !important;
+  }
+  

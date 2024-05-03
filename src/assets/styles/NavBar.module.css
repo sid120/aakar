@@ -1,0 +1,6 @@
+.logoImage {
+    width: 100px; /* Set the width of your logo */
+    height: auto; /* Maintain aspect ratio */
+    margin-right: 10px; /* Optional: Add some right margin to separate the logo from the text */
+    padding : 0.5rem;
+  }

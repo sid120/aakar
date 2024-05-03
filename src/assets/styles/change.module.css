@@ -1,0 +1,97 @@
+.frameLogin {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+  }
+
+  .frameLogin .div {
+
+    background-color: rgba(255, 255, 255, 1);
+    height: 100vh;
+    overflow: hidden;
+    position: relative;
+    width: 100vw;
+  }
+
+  .frameLogin .overlap {
+    height: 20rem;
+    left: 57rem;
+    position: absolute;
+    top: 3rem;
+    width: 29.43rem;
+  }
+
+  .frameLogin .hexagons {
+    height: 15.93rem;
+    left: 0.56rem;
+    position: absolute;
+    top: 13.25rem;
+    width: 27.12rem;
+  }
+
+  .frameLogin .cloudStorageImage {
+    height: 22.75rem;
+    left: 1.37rem;
+    object-fit: cover;
+    position: absolute;
+    top: 5.62rem;
+    width: 28.06rem;
+  }
+
+  .frameLogin .ellipse {
+    background: linear-gradient(180deg, rgb(5, 68, 112) 3.8%, rgba(89.02, 47.65, 243.31, 0.82) 100%);
+    border-radius: 3.81rem;
+    height: 7.62rem;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 7.62rem;
+  }
+
+  .frameLogin .ellipse2 {
+    background: linear-gradient(
+      180deg,
+      rgb(5, 68, 112) 0%,
+      rgba(89.02, 47.65, 243.31, 0.82) 100%,
+      rgb(119, 163, 195) 100%
+    );
+    border-radius: 14rem;
+    height: 10rem ;
+    left: 55rem;
+    position: absolute;
+    top: 34rem;
+    width: 10rem;
+  }
+
+  .frameLogin .ellipse3 {
+    background: linear-gradient(180deg, rgb(5, 68, 112) 2.84%, rgb(46.8, 108.77, 153.85) 100%);
+    border-radius: 15rem;
+    height: 13rem;
+    left: 90rem;
+    position: absolute;
+    top: 16rem;
+    width: 13rem;
+  }
+
+
+
+  .frameLogin .image {
+    height: 4.87rem;
+    left: 1.06rem;
+    object-fit: cover;
+    position: absolute;
+    top: 1.37rem;
+    width: 7.37rem;
+  }
+  .frameLogin .registerLine {
+    text-align: center;
+  }
+  .frameLogin .registerLine a{
+    text-decoration: none;
+    color: white;
+  }
+  .textDanger{
+    color: #ff0000;
+  }
